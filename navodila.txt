@@ -1,0 +1,22 @@
+Prevajalnik v morsejevo abecedo in obratno 
+ 
+1. Če želite besedilo prevesti v morsejevo abecedo, v vnosno polje natipkajte besedilo v slovenki abecedi. 
+Besedilo lahko vključuje tudi ločila. Ko ste natipkali besedilo, kliknite gumb Prevedi v morsa in na desni strani se vam bo 
+prikazalo vaše besedilo napisano v morsejevi abecedi.
+
+2. Če želite besedilo prevesti iz morsejeve abecede, v vnosno polje natipkajte besedilo v morsejevi abecedi, pri čemer črke 
+ločite z poševnico, presledek pa z dvema poševnicama (npr. -/---//.---/.//.--./.-././...-/.-/.---/.-/.-../-./../-.-). 
+Ko ste natipkali besedilo, kliknete gumb Prevedi iz morsa in na desni strani se vam bo prikazalo vaše besedilo napisano v 
+običajni abecedi.
+ 
+3. Če želite shraniti vneseno in prevedeno besedilo. Kliknite na Prevajalnik-->Shrani in program vam bo shranil datoteko 
+z imenom shranjen_prevod.txt, z vnešenim in prevedenim besedilom. Če boste ponovno shranjevali, bo program prepisal 
+staro datoteko in shranil novo vneseno besedilo in nov prevod. Če želite obdržati prejšni prevod, datoteko pred ponovnim 
+shranjevanjem preimenujte.
+ 
+4. Če želite prevesti večjo količino teksta (ali tekst ki ga imate napisanega  že od prej), ga napišite 
+v .txt datoteko in jo shranite. Nato kliknite Prevajalnik--> Odpri in program vas bo vprašal katero 
+datoteko želite odpreti. Kliknite željeno datoteko in program vam bo vsebino datoteke napisal v vnosno polje.
+
+POZOR! Program ne zna sočasno prevajati iz morsejeve abecede in običajne abecede, zato v vnosno polje NE vnašajte besedila 
+napisanega malo v običajni abecedi in malo v morsejevi abecedi.
