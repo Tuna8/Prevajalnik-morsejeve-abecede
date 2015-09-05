@@ -15,7 +15,7 @@ staro datoteko in shranil novo vneseno besedilo in nov prevod. Če želite obdr�
 shranjevanjem preimenujte.
  
 4. Če želite prevesti večjo količino teksta (ali tekst ki ga imate napisanega  že od prej), ga napišite 
-v .txt datoteko in jo shranite. Nato kliknite Prevajalnik--> Odpri in program vas bo vprašal katero 
+v .txt datoteko in jo shranite (v UTF8 kodiranju). Nato kliknite Prevajalnik--> Odpri in program vas bo vprašal katero 
 datoteko želite odpreti. Kliknite željeno datoteko in program vam bo vsebino datoteke napisal v vnosno polje.
 
 POZOR! Program ne zna sočasno prevajati iz morsejeve abecede in običajne abecede, zato v vnosno polje NE vnašajte besedila 
